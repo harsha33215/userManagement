@@ -1,0 +1,39 @@
+.list-items {
+  list-style-type: none;
+}
+
+.list-items-container {
+  padding: 20px;
+border: 2px solid black;
+  margin: 10px;
+  margin-bottom: 15px;
+}
+.firstName {
+  font-size: 26px;
+  font-family: "Roboto";
+  color: black;
+  font-weight: 800;
+}
+
+.email {
+  font-size: 18px;
+  font-family: "Roboto";
+}
+.department {
+  font-size: 15px;
+  font-family: "Roboto";
+}
+.edit-btn {
+  padding: 8px;
+  background: white;
+  color: #2b53cc;
+  border-radius: 6px;
+  border: none;
+}
+
+
+.delete-icon{
+    height: 20px;
+    width: 20px;
+    
+}
